@@ -1,2 +1,0 @@
-# ShapeAI-project-
-Portfolio
